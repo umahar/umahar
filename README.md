@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Umair Abdullkkah</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Umair Abdullah</h1>
+<h3 align="center">A passionate full stack developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **A**
+- 🔭 I’m currently working on [Player Critic](http://playercritic.chumairabdullah.com/)
 
-- 🌱 I’m currently learning **NEXT**
+- 🌱 I’m currently learning **Three JS**
 
-- 👯 I’m looking to collaborate on **B**
+- 👯 I’m looking to collaborate on [Job Alert](http://jobalert.chumairabdullah.com/)
 
-- 🤝 I’m looking for help with **C**
+- 👨‍💻 All of my projects are available at [https://www.chumairabdullah.com/#portfolio](https://www.chumairabdullah.com/#portfolio)
 
-- 👨‍💻 All of my projects are available at [umairabdullah.com](umairabdullah.com)
+- 💬 Ask me about **React, Angular, Node JS**
 
-- 💬 Ask me about **React**
+- 📫 How to reach me **hello@chumairabdullah.com**
 
-- 📫 How to reach me **umair@daxmo.com**
+- 📄 Know about my experiences [https://www.chumairabdullah.com/#resume](https://www.chumairabdullah.com/#resume)
 
-- ⚡ Fun fact **Fun**
+- ⚡ Fun fact **I think I am obsessed with tea.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
