@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Umair Abdullah</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 
-- 🔭 I’m currently working on [Player Critic](http://playercritic.chumairabdullah.com/)
+- 🔭 I’m currently working on Neural Networking projects.
 
-- 🌱 I’m currently learning **Three JS**
+- 🌱 I’m currently learning **Python & ML**
 
-- 👯 I’m looking to collaborate on [Job Alert](http://jobalert.chumairabdullah.com/)
+- 👯 I’m looking to collaborate on projects related to Machine Learning applications.
 
 - 👨‍💻 All of my projects are available at [https://www.chumairabdullah.com/#portfolio](https://www.chumairabdullah.com/#portfolio)
 
-- 💬 Ask me about **React, Angular, Node JS**
+- 💬 Ask me about **Python, Machine Learning, Neural Networks**
 
 - 📫 How to reach me **hello@chumairabdullah.com**
 
