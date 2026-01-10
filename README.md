@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Umair Abdullah</h1>
-<h3 align="center">A passionate full stack developer from Pakistan</h3>
+<h3 align="center">Computer Science postgraduate exploring intelligent systems and explainable AI</h3>
 
-- 🔭 I’m currently working on Neural Networking projects.
+- 🔭 I’m currently working on research-driven AI systems including Knowledge Graphs and Retrieval-Augmented Generation (RAG).
 
-- 🌱 I’m currently learning **Python & ML**
+- 🌱 I’m currently deepening my understanding of **Deep Learning, Applied AI, and Explainable AI**.
 
-- 👯 I’m looking to collaborate on projects related to Machine Learning applications.
+- 👯 I’m looking to collaborate on projects related to **Artificial Intelligence, Machine Learning, Knowledge Graphs, and Intelligent Information Systems**.
 
-- 👨‍💻 All of my projects are available at [https://www.chumairabdullah.com/#portfolio](https://www.chumairabdullah.com/#portfolio)
+- 👨‍💻 Some of my research and development projects will be available here on GitHub.
 
-- 💬 Ask me about **Python, Machine Learning, Neural Networks**
+- 💬 Ask me about **Python, Machine Learning, Deep Learning, Knowledge Graphs, and AI Systems**.
 
-- 📫 How to reach me **hello@chumairabdullah.com**
+- 📫 How to reach me **contact@umairabdullah.me**
 
-- 📄 Know about my experiences [https://www.chumairabdullah.com/#resume](https://www.chumairabdullah.com/#resume)
+- 📄 Know about my academic and professional journey **https://www.umairabdullah.me**
 
-- ⚡ Fun fact **I think I am obsessed with tea.**
+- ⚡ Fun fact: **I enjoy exploring how intelligence emerges in both humans and machines.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
