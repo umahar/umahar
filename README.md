@@ -1,26 +1,55 @@
 <h1 align="center">Hi 👋, I'm Umair Abdullah</h1>
-<h3 align="center">Computer Science postgraduate exploring intelligent systems and explainable AI</h3>
+<p align="center"><strong>Computing & IT Educator · Software Developer · AI Enthusiast</strong></p>
+<p align="center">London, United Kingdom</p>
 
-- 🔭 I’m currently working on research-driven AI systems including Knowledge Graphs and Retrieval-Augmented Generation (RAG).
-
-- 🌱 I’m currently deepening my understanding of **Deep Learning, Applied AI, and Explainable AI**.
-
-- 👯 I’m looking to collaborate on projects related to **Artificial Intelligence, Machine Learning, Knowledge Graphs, and Intelligent Information Systems**.
-
-- 👨‍💻 Some of my research and development projects will be available here on GitHub.
-
-- 💬 Ask me about **Python, Machine Learning, Deep Learning, Knowledge Graphs, and AI Systems**.
-
-- 📫 How to reach me **contact@umairabdullah.me**
-
-- 📄 Know about my academic and professional journey **https://www.umairabdullah.me**
-
-- ⚡ Fun fact: **I enjoy exploring how intelligence emerges in both humans and machines.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/umair-abdullah-phaphra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/umair-abdullah-phaphra/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/umair-abdullah-phaphra/">LinkedIn</a> ·
+  <a href="https://umairabdullah.me/">Website</a> ·
+  <a href="mailto:contact@umairabdullah.me">Email</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+## About me
+
+I'm a computing educator and software developer with an **MSc in Computer Science and Technology with Distinction from Ulster University**. I help learners connect computing theory with practical skills through hands-on labs, real-world projects, and individual support.
+
+My work spans adult education, cloud computing, cybersecurity, programming, and web development. Before moving into education, I co-founded a software business and led development teams delivering websites and eCommerce solutions for international clients.
+
+I'm interested in **applied AI in education**, alongside knowledge graphs, retrieval-augmented generation (RAG), and explainable AI. I welcome collaboration on practical learning resources and intelligent systems.
+
+## Teaching & experience
+
+- **Computing & IT Tutor — Capital City College** · June 2026–present<br>
+  Deliver practical computing and digital skills training to adult learners, supporting technical confidence and job-ready IT skills.
+- **Information Technology Instructor — London IT Training** · April 2025–present<br>
+  Teach cloud computing, cybersecurity, web technologies, UX design, and digital skills through classroom and online sessions. Develop lesson plans, hands-on labs, and assessment materials, including activities aligned with Azure Fundamentals (AZ-900).
+- **Minecraft Education Tutor & TA — MAMA.codes** · April–July 2025<br>
+  Taught coding and computational thinking through Minecraft Education, Python, and project-based learning.
+- **Computer Science Tutor — Preply** · April–October 2024<br>
+  Delivered personalised lessons in programming, data structures, algorithms, Python, and web development.
+- **Co-Founder & CEO — Daxno Technologies** · July 2021–July 2024<br>
+  Led a team of 15+ professionals and oversaw 100+ web development projects, specialising in custom WordPress development, eCommerce, and IT services.
+- **Lead WordPress Developer — Orfik Technologies** · January 2020–July 2021<br>
+  Built custom themes, plugins, integrations, and marketplace platforms while mentoring junior developers.
+
+## Skills & interests
+
+| Area | Focus |
+| --- | --- |
+| Computing education | Curriculum design, practical labs, differentiated instruction, formative assessment, learner mentoring |
+| Cloud & digital skills | Cloud computing, AWS fundamentals, Microsoft Azure Fundamentals teaching, cybersecurity |
+| Programming & web | Python, data structures and algorithms, WordPress, WooCommerce, custom themes and plugins |
+| Development leadership | Team mentoring, project delivery, client collaboration, quality assurance |
+| AI interests | AI in education, knowledge graphs, RAG, explainable AI |
+
+## Education & credentials
+
+- **MSc Computer Science and Technology — Ulster University** · 2025–2026 · Distinction
+- **Bachelor's degree in Computer Science — COMSATS University Islamabad** · 2018–2023
+- **AWS Academy Educator**
+- **AWS Academy Graduate — Cloud Foundations (Training Badge)**
+
+## Let's connect
+
+I'm happy to connect with educators, developers, and researchers working on computing education, cloud skills, and applied AI.
+
+📫 [contact@umairabdullah.me](mailto:contact@umairabdullah.me) · [LinkedIn](https://www.linkedin.com/in/umair-abdullah-phaphra/) · [umairabdullah.me](https://umairabdullah.me/)
